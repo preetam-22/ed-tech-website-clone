@@ -62,8 +62,8 @@ This is a project made for practice and demonstration purposes.
 ### 👨‍💻 Author
 
 **Preetam Nayak**  
-📧 [Your Email]  
-🔗 [Your LinkedIn](https://www.linkedin.com/in/preetamn22)
+📧 [Email](preetamn223@gmail.com) 
+🔗 [LinkedIn](https://www.linkedin.com/in/preetamn22)
 
 ---
 
