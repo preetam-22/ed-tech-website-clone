@@ -21,9 +21,9 @@ A fully responsive and visually appealing clone of an Ed-Tech platform, designed
 - **JavaScript** – Interactivity and behavior
 - **Vercel** – Deployment
 
-## 📷 Screenshots
+<!-- ## 📷 Screenshots
 
-![Homepage Screenshot](./screenshots/homepage.png) <!-- Add actual screenshot path -->
+![Homepage Screenshot](./screenshots/homepage.png) Add actual screenshot path -->
 
 ## 📁 Folder Structure
 
