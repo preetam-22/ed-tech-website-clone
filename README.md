@@ -18,7 +18,6 @@ A fully responsive and visually appealing clone of an Ed-Tech platform, designed
 
 - **HTML** – Markup structure
 - **CSS** – Styling and layout
-- **JavaScript** – Interactivity and behavior
 - **Vercel** – Deployment
 
 <!-- ## 📷 Screenshots
@@ -30,9 +29,9 @@ A fully responsive and visually appealing clone of an Ed-Tech platform, designed
 ```
 ed-tech-website-clone/
 ├── index.html
+├── style.css
 ├── /assets
 │   ├── /images
-│   └── /css
 └── README.md
 ```
 
